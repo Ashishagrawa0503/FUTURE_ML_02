@@ -17,7 +17,7 @@ NumPy
 Scikit-learn
 Keras (TensorFlow backend)
 Matplotlib / Seaborn
-Yahoo Finance API (via yfinance)
+
 Dataset
 The dataset natflix dataset
 
